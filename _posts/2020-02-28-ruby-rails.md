@@ -3,12 +3,10 @@ layout: post
 title: Ruby - Ruby on Rails
 subtitle: Ruby ve Ruby on Rails Nedir? Nasıl Kurulur?
 cover-img: /assets/img/rubyonrails.jpg
-thumbnail-img: /assets/img/rails.png
+thumbnail-img: /assets/img/ruby.jpeg
 share-img: /assets/img/rubyonrails.jpg
 tags: [Ruby, Rails]
 ---
-
-## Ruby ve Ruby on Rails Nedir?
 
 Dinamik, açık kaynak kodlu, basitliği ve okunabilirliği ile bilinen bir programlama dilidir. 90'lı yıllarda takma adı **"Matz"** olan Yukihiro Matsumoto tarafından oluşturulmuştur. Yazılım geliştirme alanında önemli bir prensip olan _**DRY**_ (Don't Repeat Yourself!) yani "Kendini tekrar etme!", Ruby için de geçerlidir. Matz, zarif ve güçlü bir dil oluşturmayı, geliştirici mutluluğuna ve üretkenliğine odaklanmıştır.
 

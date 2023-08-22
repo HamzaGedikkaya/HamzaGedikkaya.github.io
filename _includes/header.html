@@ -38,8 +38,8 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">{% assign date_format = "%-d.%m.%Y" %}
-              {{ site.time | date: date_format }} Tarihinde yayınlandı.</span>
+            <span class="post-meta">Son değiştirilme tarihi: {% assign date_format = "%-d.%m.%Y" %}
+              {{ site.time | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
@@ -73,8 +73,8 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">{% assign date_format = "%-d.%m.%Y" %}
-              {{ site.time | date: date_format }} Tarihinde yayınlandı.</span>
+            <span class="post-meta">Son değiştirilme tarihi: {% assign date_format = "%-d.%m.%Y" %}
+              {{ site.time | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
