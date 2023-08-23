@@ -26,9 +26,11 @@ CRUD **"Create - Read - Update - Delete"** anlamına gelir. Verilerin yönetimi 
 
 ### Gem Nedir?
 
-Kullanıdığımız Ruby dilinde kütüphanelerin, paketlerin dağıtım ve yönetimini sağlayan bir sistemdir. Herhangi bir projeye bir işlevsellik katmak istediğimizde, bunu kısayoldan bize sağlayan, başkaları tarafından geliştirilmiş olan kodlar _**Gem**_'lerdir. Projemizde kullanacağımız iki gem şunlardır;
+Kullanıdığımız Ruby dilinde kütüphanelerin, paketlerin dağıtım ve yönetimini sağlayan bir sistemdir. Herhangi bir projeye bir işlevsellik katmak istediğimizde, bunu kısayoldan bize sağlayan, başkaları tarafından geliştirilmiş olan kodlar _**Gem**_'lerdir. Projemizde kullandığımız gem'ler şunlardır;
 - Ransack (Arama çubuğu)
 - İmage Processing (Fotoğraf Ekleme - Görüntüleme)
+- Devise (Kullanıcı İşlemleri)
+- Bootstrap (CSS Kütüphanesi)
 
 ![background](/assets/img/30px.png)
 
@@ -180,3 +182,12 @@ Makaleyi düzenleme sayfasına gitmek için **`<%= link_to "Makaleyi düzenle", 
 Makaleyi tamamen silmek için **`<%= button_to "Makaleyi Sil", @article, method: :delete %>`**
 
 ![background](/assets/img/30px.png)
+
+### Gem Kullanımları
+
+Projede kullanılan gem'ler hakkında bilgi almak, kurulum ve kullanımlarını öğrenmek için;
+
+- [Ransack](https://hamzagedikkaya.github.io/2023-08-22-gem-ransack/)
+- [Image Processing](https://hamzagedikkaya.github.io/2023-08-22-gem-image/)
+- [Devise](https://hamzagedikkaya.github.io/2023-08-22-gem-devise/)
+- [Bootstrap](https://hamzagedikkaya.github.io/2023-08-22-gem-bootstrap/)
