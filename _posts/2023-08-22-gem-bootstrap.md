@@ -1,0 +1,9 @@
+---
+layout: post
+title: Gem Bootstrap
+subtitle: Bootstrap Nedir? Nasıl Kullanılır?
+cover-img: /assets/img/article.jpg
+thumbnail-img: /assets/img/gem.jpeg
+# share-img: /assets/img/article.jpg
+tags: [Ruby, Rails, GEM, Bootstrap]
+---

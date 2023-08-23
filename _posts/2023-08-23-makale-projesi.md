@@ -5,7 +5,7 @@ subtitle: Makale Projesi - CRUD ve Gem Nedir?
 cover-img: /assets/img/article.jpg
 thumbnail-img: /assets/img/rails.png
 # share-img: /assets/img/article.jpg
-tags: [Ruby, Rails, CRUD, GEM, Ransack, İmage Processing]
+tags: [Ruby, Rails, CRUD, GEM, Ransack, İmage Processing, Devise, Bootstrap]
 ---
 
 Bu içerikte Rails'i kullanarak ilk projemizi, "Makale Projesini" oluşturacağız. Başlamadan önce şu iki terime bakalım;
@@ -133,6 +133,8 @@ end
 ![background](/assets/img/30px.png)
 
 ### CRUD Kullanımı
+
+- !!! CRUD kullanımına geçmeden önce projemizi **tarayıcı üzerinde görüntülemek** için konsola `rails s` komutunu girerek çalıştırabiliriz. Tarayıcıda **http://127.0.0.1:3000** adresine giderek görüntüleme yapılabilir.
 
 #### Makalelerin Gösterilmesi ve Yeni Makale Oluşturulması:
 
