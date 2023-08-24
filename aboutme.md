@@ -12,4 +12,4 @@ subtitle: Yazılım Geliştirme Stajyeri
 - Ruby, Ruby on Rails
 - Markdown
 
-İletişim için [tıklayınız.](gedikkayahamza@gmail.com)
+İletişim için ***[tıklayınız.](mailto:gedikkayahamza@gmail.com)***

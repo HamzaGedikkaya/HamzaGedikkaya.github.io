@@ -189,7 +189,16 @@ Makaleyi tamamen silmek için **`<%= button_to "Makaleyi Sil", @article, method:
 
 Projede kullanılan gem'ler hakkında bilgi almak, kurulum ve kullanımlarını öğrenmek için;
 
-- [Ransack](https://hamzagedikkaya.github.io/2023-08-22-gem-ransack/)
-- [Image Processing](https://hamzagedikkaya.github.io/2023-08-22-gem-image/)
-- [Devise](https://hamzagedikkaya.github.io/2023-08-22-gem-devise/)
-- [Bootstrap](https://hamzagedikkaya.github.io/2023-08-22-gem-bootstrap/)
+- ***[Ransack](https://hamzagedikkaya.github.io/2023-08-22-gem-ransack/)***
+- ***[Image Processing](https://hamzagedikkaya.github.io/2023-08-22-gem-image/)***
+- ***[Devise](https://hamzagedikkaya.github.io/2023-08-22-gem-devise/)***
+- ***[Bootstrap](https://hamzagedikkaya.github.io/2023-08-22-gem-bootstrap/)***
+
+![background](/assets/img/30px.png)
+
+### Ekstralar
+
+Gemler eklenip projemiz bir şekil aldıktan sonra, projede yaptığım güncellemeler aşağıda sıralanmıştır:
+
+- ***[Text Editor Nedir? Nasıl Kullanılır?](https://hamzagedikkaya.github.io/2023-08-21-text-editor/)***
+- ***[Makaleye Yorum Nasıl Eklenir?](https://hamzagedikkaya.github.io/2023-08-21-yorum/)***
