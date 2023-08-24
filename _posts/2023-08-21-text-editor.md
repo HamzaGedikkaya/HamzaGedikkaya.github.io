@@ -3,7 +3,7 @@ layout: post
 title: Text Editor
 subtitle: Nedir ve Nasıl Kullanılır?
 cover-img: /assets/img/text.png
-thumbnail-img: /assets/img/rails.png
+thumbnail-img: /assets/img/editor.jpeg
 # share-img: /assets/img/text.png
 tags: [Ruby, Rails, Text Editor]
 ---
